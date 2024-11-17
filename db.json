@@ -1,31 +1,69 @@
 {
 	"cases": [
 		{
-			"category": [2, 6],
+			"category": [2, 7, 6],
 			"left": {
-				"slug": "cetatenie",
-				"img": "/img/cetatenie03.jpg",
-				"title_ru": "CETATENIA.MD",
-				"title_ro": "CETATENIA.MD ro",
-				"desc_ru": "Branding, Digital",
-				"desc_ro": "Branding, Digital ro"
+				"slug": "barcelona",
+				"img": "https://github.com/Tomasciuc/server-tagme/blob/main/img/1.jpg?raw=true",
+				"title_ru": "FC BARCELONA",
+				"title_ro": "FC BARCELONA",
+				"desc_ru": "Брендинг",
+				"desc_ro": "Branding"
 			},
 			"right": {
-				"slug": "si-franc",
-				"img": "/img/franc.jpg",
-				"title_ru": "SI FRANC",
-				"title_ro": "SI FRANC ro",
-				"desc_ru": "Branding, UI Design",
-				"desc_ro": "Branding, UI Design ro"
+				"slug": "cnos",
+				"img": "https://github.com/Tomasciuc/server-tagme/blob/main/img/2.jpg?raw=true",
+				"title_ru": "CNOS",
+				"title_ro": "CNOS",
+				"desc_ru": "Ребрендинг",
+				"desc_ro": "Rebranding"
+			}
+		},
+		{
+			"category": [2, 6, 7, 3],
+			"left": {
+				"slug": "barcelona",
+				"img": "https://github.com/Tomasciuc/server-tagme/blob/main/img/4.jpg?raw=true",
+				"title_ru": "Emigrare.md",
+				"title_ro": "Emigrare.md",
+				"desc_ru": "Ребрендинг",
+				"desc_ro": "Rebranding"
+			},
+			"right": {
+				"slug": "cnos",
+				"img": "https://github.com/Tomasciuc/server-tagme/blob/main/img/7.jpg?raw=true",
+				"title_ru": "FLOARE",
+				"title_ro": "FLOARE",
+				"desc_ru": "Промо кампания",
+				"desc_ro": "Campanie Promo"
+			}
+		},
+        {
+			"category": [2, 6],
+			"left": {
+				"slug": "rems",
+				"img": "https://github.com/Tomasciuc/server-tagme/blob/main/img/rems.jpg?raw=true",
+				"title_ru": "REMS",
+				"title_ro": "REMS",
+				"desc_ru": "Брендинг",
+				"desc_ro": "Branding"
+			},
+			"right": {
+				"slug": "avionik",
+				"img": "https://github.com/Tomasciuc/server-tagme/blob/main/img/rems.jpg?raw=true",
+				"title_ru": "AVIONIK",
+				"title_ro": "AVIONIK",
+				"desc_ru": "Ребрендинг",
+				"desc_ro": "Rebranding"
 			}
 		}
 	],
 	"case": [
 		{
-			"slug": "si-franc",
+			"slug": "barcelona",
 			"seoMeta": {
-				"title_ru": "Кейс",
-				"title_ro": "Кейс",
+				"title_ru": "FC BARCELONA",
+				"title_ro": "FC BARCELONA",
 				"description_ru": "",
 				"description_ro": "",
 				"ogTitle_ru": "",
@@ -34,69 +72,76 @@
 				"ogDescription_ro": ""
 			},
 			"block": {
-				"title_ru": "Si Franc",
-				"title_ro": "Si Franc ro",
+				"title_ru": "FC BARCELONA",
+				"title_ro": "FC BARCELONA",
 				"client": {
 					"title_ru": "Клиент",
-					"title_ro": "Клиент",
-					"desc_ru": "Si Franc",
-					"desc_ro": "Si Franc"
+					"title_ro": "CLIENT",
+					"desc_ru": "FC BARCELONA",
+					"desc_ro": "FC BARCELONA"
 				},
 				"services": {
 					"title_ru": "Услуги",
-					"title_ro": "Услуги",
-					"desc_ru": "Брендинг, SMM",
-					"desc_ro": "Брендинг, SMM"
+					"title_ro": "SERVICII",
+					"desc_ru": "Брендинг",
+					"desc_ro": "Branding"
 				},
 				"sphere": {
 					"title_ru": "Сфера",
-					"title_ro": "Сфера",
-					"desc_ru": "HoReCa",
-					"desc_ro": "HoReCa"
+					"title_ro": "DOMENIU",
+					"desc_ru": "Retail",
+					"desc_ro": "Retail"
 				},
-				"text1_ru": "Si Franc is a company that seeks to be a trusted partner for its clients in the real estate world.",
-				"text1_ro": "Si Franc is a company that seeks to be a trusted partner for its clients in the real estate world.",
-				"text2_ru": "The project that aspires to be an ally for its clients in the real estate world. To represent this vision, we created a modern, minimalist brand that showcases a feeling of elegance for the future.",
-				"text2_ro": "The project that aspires to be an ally for its clients in the real estate world. To represent this vision, we created a modern, minimalist brand that showcases a feeling of elegance for the future."
+				"text1_ru": "Футбольный клуб \"Барселона\" (FC Barcelona), или просто \"Барса,\" — один из самых известных и успешных футбольных клубов мира.",
+				"text1_ro": "Clubul de fotbal \"Barcelona\" (FC Barcelona), sau simplu \"Barça\", este unul dintre cele mai cunoscute și de succes cluburi de fotbal din lume.",
+
+
+				"text2_ru": "Основанный в 1899 году, он славится своим уникальным стилем игры, называемым \"тики-така\", и верностью принципу \"больше чем клуб\" (més que un club), что отражает тесную связь с культурой Каталонии. Барса является домом для легендарного стадиона Камп Ноу, а также воспитала многих великих футболистов, таких как Лионель Месси, Андрес Иньеста и Хави.",
+
+
+				"text2_ro": "Fondat în 1899, se remarcă prin stilul său unic de joc, numit \"tiki-taka\", și prin devotamentul față de principiul \"mai mult decât un club\" (més que un club), care reflectă legătura strânsă cu cultura catalană. Barça este gazda legendarului stadion Camp Nou și a format mulți jucători mari, precum Lionel Messi, Andres Iniesta și Xavi."
 			},
 			"block2": {
-				"title_ru": "Простота & Ясность",
-				"title_ro": "Простота & Ясность",
-				"desc_ru": "At Creative Studio, we believe that every project is unique and requires a personalized approach. That's why we take the time to understand our clients' goals and objectives before creating a customized plan to achieve them. Whether it's a logo design, website development, or a complete branding overhaul, we work closely with our clients throughout the entire process to ensure that their vision is brought to life.",
-				"desc_ro": "At Creative Studio, we believe that every project is unique and requires a personalized approach. That's why we take the time to understand our clients' goals and objectives before creating a customized plan to achieve them. Whether it's a logo design, website development, or a complete branding overhaul, we work closely with our clients throughout the entire process to ensure that their vision is brought to life.",
-				"img": "https://github.com/Tomasciuc/server-tagme/blob/main/img/sifranc/1.jpg?raw=true",
+				"title_ru": "MÉS QUE UN CLUB",
+				"title_ro": "MÉS QUE UN CLUB",
+				"desc_ru": "Мы разработали комплексный бренд-пакет для Ice Wine, включающий: \n тубус — элегантный дизайн и прочная конструкция подчеркивают эксклюзивность \n коробки для транспортировки — надёжное и стильное решение для логистики \n этикетка и контрэтикетка — на английском и испанском для увеличения аудитории \n капсула — уникальный дизайн, который отсылает к символике клуба",
+
+				"desc_ro": "Am creat un branding kit complet pentru Ice Wine, care include: \n Cutie-tub — design elegant și rezistent, ce subliniază exclusivitatea produsului. \n Cutii pentru logistică — soluții fiabile și stilate pentru transportare. \n Etichetă și contraetichetă — disponibile în două limbi (engleză și spaniolă) pentru a atinge un public larg. \n Capsulă — design unic inspirat din simbolistica clubului.",
+
+
+				"img": "https://github.com/Tomasciuc/server-tagme/blob/main/img/barsa/1.jpg?raw=true",
 				"target": {
 					"title_ru": "Цель",
-					"title_ro": "Цель",
-					"desc_ru": "Si Franc wanted to be seen as a powerful, respected, yet close, trustworthy partner. We were looking for a mixture future and reflects itself as someone you can count.",
-					"desc_ro": "Si Franc wanted to be seen as a powerful, respected, yet close, trustworthy partner. We were looking for a mixture future and reflects itself as someone you can count."
+					"title_ro": "Scopul proiectului:",
+					"desc_ru": "брендирование лимитированного Ice Wine для испанского футбольного клуба FC Barcelona. В течение года мы разрабатывали айдентику и упаковку, чтобы в итоге передать исключительный статус вина, отражая дух и ценности клуба. Продукт уже доступен в специализированных магазинах Барселоны, а скоро будет продаваться и за её пределами.",
+					"desc_ro": "брендирование лимитированного Ice Wine для испанского футбольного клуба FC Barcelona. В течение года мы разрабатывали айдентику и упаковку, чтобы в итоге передать исключительный статус вина, отражая дух и ценности клуба. Продукт уже доступен в специализированных магазинах Барселоны, а скоро будет продаваться и за её пределами."
 				},
 				"decision": {
 					"title_ru": "Решение",
-					"title_ro": "Решение",
-					"desc_ru": "Si Franc wanted to be seen as a powerful, respected, yet close, trustworthy partner. We were looking for a mixture future and reflects itself as someone you can count.",
-					"desc_ro": "Si Franc wanted to be seen as a powerful, respected, yet close, trustworthy partner. We were looking for a mixture future and reflects itself as someone you can count."
+					"title_ro": "Soluția:",
+					"desc_ru": "Ice Wine под брендом FC Barcelona доступно в фирменных магазинах Барселоны с ноября 2024 года — это революционно новый способ ощутить магию основанного аж в 1899 году футбольного клуба.",
+					"desc_ro": "Din noiembrie 2024, Ice Wine-ul brandului FC Barcelona este disponibil în magazinele specializate din Barcelona, oferindu-le fanilor un nou prilej de a celebra victoriile clubului."
 				}
 			},
 			"block3": {
-				"img1": "/img/franc-cava.jpg",
-				"img2": "/img/only-spaun.jpg",
-				"img3": "/img/franc-key.jpg",
-				"img4": "/img/franc-grayfrut.jpg"
+				"img1": "https://github.com/Tomasciuc/server-tagme/blob/main/img/barsa/2.jpg?raw=true",
+				"img2": "https://github.com/Tomasciuc/server-tagme/blob/main/img/barsa/3.jpg?raw=true",
+				"img3": "https://github.com/Tomasciuc/server-tagme/blob/main/img/barsa/4.jpg?raw=true",
+				"img4": "https://github.com/Tomasciuc/server-tagme/blob/main/img/barsa/5.jpg?raw=true"
 			},
-			"block4": {
-				"title_ru": "Яркость - это ключ",
-				"title_ro": "Яркость - это ключ",
-				"desc_ru": "At Creative Studio, we believe that every project is unique and requires a personalized approach. That's why we  take the time to understand our clients' goals and objectives before creating a",
-				"desc_ro": "At Creative Studio, we believe that every project is unique and requires a personalized approach. That's why we  take the time to understand our clients' goals and objectives before creating a",
-				"text_ru": "Dedicated to delivering exceptional results",
-				"text_ro": "Dedicated to delivering exceptional results",
-				"img1": "/img/franc079.jpg",
-				"img2": "/img/conceptal.jpg"
+			"block4": { 
+				"title_ru": "Heritage. Art of Winemaking.",
+				"title_ro": "Heritage. Art of Winemaking.",
+				"desc_ru": "Мы также создали видео контент, рассказывающий о продукте от этапа производства до доставки на полки магазинов.",
+				"desc_ro": "Am realizat, de asemenea, conținut video care ilustrează procesul, de la producție până la plasarea pe rafturile magazinelor.",
+				"text_ru": "Uncork the passion. Taste the legacy.",
+				"text_ro": "Uncork the passion. Taste the legacy.",
+				"img1": "https://github.com/Tomasciuc/server-tagme/blob/main/img/barsa/6.jpg?raw=true",
+				"img2": "https://github.com/Tomasciuc/server-tagme/blob/main/img/barsa/7.jpg?raw=true"
 			},
 			"block5": {
 				"title_ru": "Похожие кейсы",
-				"title_ro": "Похожие кейсы",
+				"title_ro": "Studii de caz similare",
 				"block1": {
 					"title_ru": "Разработка брендинга и айдентики для Si Franc",
 					"title_ro": "Разработка брендинга и айдентики для Si Franc",
