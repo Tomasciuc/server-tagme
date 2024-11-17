@@ -1,0 +1,117 @@
+{
+	"cases": [
+		{
+			"category": [2, 6],
+			"left": {
+				"slug": "cetatenie",
+				"img": "/img/cetatenie03.jpg",
+				"title_ru": "CETATENIA.MD",
+				"title_ro": "CETATENIA.MD ro",
+				"desc_ru": "Branding, Digital",
+				"desc_ro": "Branding, Digital ro"
+			},
+			"right": {
+				"slug": "si-franc",
+				"img": "/img/franc.jpg",
+				"title_ru": "SI FRANC",
+				"title_ro": "SI FRANC ro",
+				"desc_ru": "Branding, UI Design",
+				"desc_ro": "Branding, UI Design ro"
+			}
+		}
+	],
+	"case": [
+		{
+			"slug": "si-franc",
+			"seoMeta": {
+				"title_ru": "Кейс",
+				"title_ro": "Кейс",
+				"description_ru": "",
+				"description_ro": "",
+				"ogTitle_ru": "",
+				"ogTitle_ro": "",
+				"ogDescription_ru": "",
+				"ogDescription_ro": ""
+			},
+			"block": {
+				"title_ru": "Si Franc",
+				"title_ro": "Si Franc ro",
+				"client": {
+					"title_ru": "Клиент",
+					"title_ro": "Клиент",
+					"desc_ru": "Si Franc",
+					"desc_ro": "Si Franc"
+				},
+				"services": {
+					"title_ru": "Услуги",
+					"title_ro": "Услуги",
+					"desc_ru": "Брендинг, SMM",
+					"desc_ro": "Брендинг, SMM"
+				},
+				"sphere": {
+					"title_ru": "Сфера",
+					"title_ro": "Сфера",
+					"desc_ru": "HoReCa",
+					"desc_ro": "HoReCa"
+				},
+				"text1_ru": "Si Franc is a company that seeks to be a trusted partner for its clients in the real estate world.",
+				"text1_ro": "Si Franc is a company that seeks to be a trusted partner for its clients in the real estate world.",
+				"text2_ru": "The project that aspires to be an ally for its clients in the real estate world. To represent this vision, we created a modern, minimalist brand that showcases a feeling of elegance for the future.",
+				"text2_ro": "The project that aspires to be an ally for its clients in the real estate world. To represent this vision, we created a modern, minimalist brand that showcases a feeling of elegance for the future."
+			},
+			"block2": {
+				"title_ru": "Простота & Ясность",
+				"title_ro": "Простота & Ясность",
+				"desc_ru": "At Creative Studio, we believe that every project is unique and requires a personalized approach. That's why we take the time to understand our clients' goals and objectives before creating a customized plan to achieve them. Whether it's a logo design, website development, or a complete branding overhaul, we work closely with our clients throughout the entire process to ensure that their vision is brought to life.",
+				"desc_ro": "At Creative Studio, we believe that every project is unique and requires a personalized approach. That's why we take the time to understand our clients' goals and objectives before creating a customized plan to achieve them. Whether it's a logo design, website development, or a complete branding overhaul, we work closely with our clients throughout the entire process to ensure that their vision is brought to life.",
+				"img": "/img/franc-freen.jpg",
+				"target": {
+					"title_ru": "Цель",
+					"title_ro": "Цель",
+					"desc_ru": "Si Franc wanted to be seen as a powerful, respected, yet close, trustworthy partner. We were looking for a mixture future and reflects itself as someone you can count.",
+					"desc_ro": "Si Franc wanted to be seen as a powerful, respected, yet close, trustworthy partner. We were looking for a mixture future and reflects itself as someone you can count."
+				},
+				"decision": {
+					"title_ru": "Решение",
+					"title_ro": "Решение",
+					"desc_ru": "Si Franc wanted to be seen as a powerful, respected, yet close, trustworthy partner. We were looking for a mixture future and reflects itself as someone you can count.",
+					"desc_ro": "Si Franc wanted to be seen as a powerful, respected, yet close, trustworthy partner. We were looking for a mixture future and reflects itself as someone you can count."
+				}
+			},
+			"block3": {
+				"img1": "/img/franc-cava.jpg",
+				"img2": "/img/only-spaun.jpg",
+				"img3": "/img/franc-key.jpg",
+				"img4": "/img/franc-grayfrut.jpg"
+			},
+			"block4": {
+				"title_ru": "Яркость - это ключ",
+				"title_ro": "Яркость - это ключ",
+				"desc_ru": "At Creative Studio, we believe that every project is unique and requires a personalized approach. That's why we  take the time to understand our clients' goals and objectives before creating a",
+				"desc_ro": "At Creative Studio, we believe that every project is unique and requires a personalized approach. That's why we  take the time to understand our clients' goals and objectives before creating a",
+				"text_ru": "Dedicated to delivering exceptional results",
+				"text_ro": "Dedicated to delivering exceptional results",
+				"img1": "/img/franc079.jpg",
+				"img2": "/img/conceptal.jpg"
+			},
+			"block5": {
+				"title_ru": "Похожие кейсы",
+				"title_ro": "Похожие кейсы",
+				"block1": {
+					"title_ru": "Разработка брендинга и айдентики для Si Franc",
+					"title_ro": "Разработка брендинга и айдентики для Si Franc",
+					"desc_ru": "Restaurant, Romania",
+					"desc_ro": "Restaurant, Romania",
+					"img": "/img/pc-white.jpg"
+				},
+				"block2": {
+					"title_ru": "Разработка брендинга и айдентики для Si Franc",
+					"title_ro": "Разработка брендинга и айдентики для Si Franc",
+					"desc_ru": "Restaurant, Romania",
+					"desc_ro": "Restaurant, Romania",
+					"img": "/img/space.jpg"
+				}
+			}
+		}
+	]
+}
